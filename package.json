@@ -1,0 +1,25 @@
+{
+  "name": "jokers-quest",
+  "version": "1.0.0",
+  "description": "jockersgarage.bike motoquest with firebase storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests!' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/0negin/jokers-quest.git"
+  },
+  "keywords": [
+    "quest",
+    "quiz",
+    "questions",
+    "answers"
+  ],
+  "author": "@onegin_online",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0negin/jokers-quest/issues"
+  },
+  "homepage": "https://github.com/0negin/jokers-quest#readme"
+}
