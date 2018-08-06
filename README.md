@@ -1,2 +1,3 @@
-# jokers-quest
-jockersgarage.bike motoquest with firebase storage
+# Telegram bot to create linear quests
+
+using firebase realtime database and telegraf bot api
